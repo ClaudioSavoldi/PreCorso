@@ -1,0 +1,23 @@
+
+.titoloP
+{
+text-align: center;
+margin: 0%;
+}
+.insDati
+{
+text-align: center;
+
+}
+.condizioni{
+text-align: center;
+}
+.page
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+font-size: 1.5em;
+}
