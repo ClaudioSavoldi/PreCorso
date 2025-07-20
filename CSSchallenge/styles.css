@@ -1,0 +1,87 @@
+
+
+.corpo{
+margin: 0;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400px;
+font-style: normal;
+}
+
+.mainsection
+{
+padding: 20px;
+}
+
+.imagecont
+{
+height: 500px;
+background-image: url(https://www.circuitoturismo.it/wp-content/uploads/Dubrovnik-Outside-the-Walls-of-Old-Town_show.jpg;);
+max-width: fit-content;
+max-height: fit-content;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+.imagecont2
+{
+
+background-image: url(https://wallpaperaccess.com/full/2910112.jpg);
+max-width: fit-content;
+max-height: fit-content;
+  object-fit:none;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.nomeluogo
+{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 64px;
+  margin-bottom: 0;
+}
+
+.nomezona
+{
+font-family: "Prata", serif;
+font-size: 24px;
+font-weight: 400px;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.linkautore{
+    font-weight: 600;
+    font-style:italic;
+}
+
+.correlati
+{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(45deg, #5d0b06, #f3c19f);
+}
+
+.lista
+{
+list-style-type: none;
+padding:0%;
+
+}
+.posto
+{
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 22px;
+border-bottom: 1px;
+border-color: #dfdfdf;
+color: #5d0b06;
+text-decoration: none;   
+}
